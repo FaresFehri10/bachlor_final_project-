@@ -1,0 +1,34 @@
+# Python virtual environment
+projet/Lib/
+projet/Scripts/
+projet/share/
+projet/pyvenv.cfg
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Secrets & credentials
+*.secret.json
+client_secret*.json
+drive-*.json
+.env
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
