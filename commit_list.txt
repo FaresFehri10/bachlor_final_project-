@@ -1,0 +1,18 @@
+﻿42741e6|2023-12-05|Initial project setup with .gitignore
+1b27b75|2023-12-18|Add main Flask application
+52eb422|2024-01-10|Add project dependencies and requirements
+a5be161|2024-01-28|Add project description and documentation
+8a421b9|2026-02-21|Initialize repository and basic project structure
+bf95830|2026-02-21|Add Docker setup and base service configuration
+d7752fc|2026-02-21|Add invoice ingestion module and storage schema
+c01e1d7|2026-02-21|Add environment configuration and centralized logging
+161902f|2026-02-21|Implement OCR pipeline with Tesseract + OpenCV preprocessing
+62efa6b|2026-02-21|Improve OCR accuracy: image normalization, ROI detection, validation rules
+1229ff4|2026-02-21|Develop REST API for invoices and extracted fields
+bf7870f|2026-02-21|Add authentication, roles, and API documentation
+c8cd3c9|2026-02-21|Implement real-time collaboration with WebSockets (live updates + presence)
+6baaf81|2026-02-21|Improve WebSocket performance: event batching, reconnect handling, access control
+3786bfa|2026-02-21|Add Python automation for Excel reporting (export templates + formatting)
+34cd588|2026-02-21|Optimize Excel report generation: caching, faster aggregation, error handling
+3d40568|2026-02-21|Refactor to microservices: split OCR, API, and reporting services
+db8777c|2026-02-21|Finalize deployment with Docker Compose and production-ready configs

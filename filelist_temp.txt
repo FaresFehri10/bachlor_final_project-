@@ -1,0 +1,34 @@
+﻿.gitignore
+Fares.xlsx
+Isima.xlsx
+Tesla.xlsx
+detecttable.jpg
+ooredoo.xlsx
+projet/+Fares.xlsx
+projet/.gitignore
+projet/09-1 (1).docx
+projet/15358927869339_Exemple-Devis-OC.png
+projet/21682533.jpg
+"projet/Capture d\342\200\231\303\251cran 2023-06-04 230629.png"
+"projet/Capture d\342\200\231\303\251cran 2023-06-06 153912.png"
+"projet/Capture d\342\200\231\303\251cran 2023-06-07 013326.png"
+projet/DESCRIPTION.jpg
+projet/DESCRIPTION.pdf
+projet/Quittance de paiement.pdf
+projet/angular.docx
+projet/app.py
+projet/be713b9b906d195e041aba73afba3889.png
+projet/exemple_devis_facile.png
+projet/facture-regrouper-ex.png
+projet/facture.png
+projet/facture1.png
+projet/ff.png
+projet/free-file-icon-1453-thumb.png
+projet/image_120382168111668430103322.webp
+projet/invoice_2001321.pdf
+projet/output.json
+projet/png-transparent-computer-icons-cloud-computing-cloud-storage-upload-budget-leaf-text-logo-thumbnail.png
+projet/req.txt
+projet/requirements.txt
+projet/sql_group_by_clause_table.png
+sonede.xlsx

@@ -1,0 +1,33 @@
+# secrets
+flask/projet/secret.json
+*.secret.json
+client_secret*.json
+drive-*.json
+.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+Lib/
+Scripts
+
+# Environment variables
+.env
+
+# Node (falls vorhanden)
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# Credentials
+client_secret_*.json
+drive-*.json
+
+# OS
+.DS_Store
+Thumbs.db
